@@ -1,0 +1,202 @@
+[
+  {
+    "id": "model-s",
+    "name": "Model S",
+    "basePrice": 96500,
+    "defaultPaint": "white",
+    "defaultWheel": "tempestWheel",
+    "description": "We designed Model S from the ground-up as an electric vehicle — each component, including batteries, motors and exterior aerodynamics are optimized to benefit from one another and create one of the most efficient, yet unbelievably powerful vehicles ever built.",
+    "img": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PPMR,$WS90,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+    "paint": {
+      "white": {
+        "label": "Pearl White Multi-Coat",
+        "price": 0,
+        "wheels": {
+          "tempestWheel": {
+            "label": "19' Tempest Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PPSW,$WS90,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "arachnidWheels": {
+            "label": "21' Arachnid Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PPSW,$WS10,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 4500
+          }
+        }
+      },
+      "silver": {
+        "label": "Midnight Silver Metallic",
+        "price": 1500,
+        "wheels": {
+          "tempestWheel": {
+            "label": "19' Tempest Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PMNG,$WS90,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "arachnidWheels": {
+            "label": "21' Arachnid Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PMNG,$WS10,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 4500
+          }
+        }
+      },
+      "red": {
+        "label": "Red Multi-Coat",
+        "price": 2500,
+        "wheels": {
+          "tempestWheel": {
+            "label": "19' Tempest Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PPMR,$WS90,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "arachnidWheels": {
+            "label": "21' Arachnid Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PPMR,$WS10,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 4500
+          }
+        }
+      },
+      "black": {
+        "label": "Solid Black",
+        "price": 1500,
+        "wheels": {
+          "tempestWheel": {
+            "label": "19' Tempest Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PBSB,$WS90,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "arachnidWheels": {
+            "label": "21' Arachnid Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PBSB,$WS10,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 4500
+          }
+        }
+      },
+      "blue": {
+        "label": "Deep Blue Metallic",
+        "price": 1500,
+        "wheels": {
+          "tempestWheel": {
+            "label": "19' Tempest Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PPSB,$WS90,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "arachnidWheels": {
+            "label": "21' Arachnid Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTS13,$PPSB,$WS10,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&crop=1300,500,300,300&version=v0118-db8968a0d202208250740",
+            "price": 4500
+          }
+        }
+      }
+    },
+    "icons": {
+      "white": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_White.png?version=v0118-db8968a0d202208250740",
+      "red": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_Red.png?version=v0118-db8968a0d202208250740",
+      "black": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_Black.png?version=v0118-db8968a0d202208250740",
+      "silver": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_MidnightSilver.png?version=v0118-db8968a0d202208250740",
+      "blue": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_Blue.png?version=v0118-db8968a0d202208250740",
+      "tempestWheel": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODELS/UI/ui_swat_whl_tempest.png?version=v0118-db8968a0d202208250740",
+      "arachnidWheels": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODELS/UI/21Arachnid.png?version=v0118-db8968a0d202208250740"
+    }
+  },
+  {
+    "id": "model-y",
+    "name": "Model Y",
+    "basePrice": 58190,
+    "defaultPaint": "white",
+    "defaultWheel": "geminiWheels",
+    "description": "We designed Model Y from the ground-up as an electric vehicle using system-level integration throughout. Each component, including batteries, motors and even exterior aerodynamics are optimized to benefit from one another and create one of the most efficient, yet unbelievably powerful vehicles ever built.",
+    "img": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PPSB,$WY19B,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+    "paint": {
+      "white": {
+        "label": "Pearl White Multi-Coat",
+        "price": 0,
+        "wheels": {
+          "geminiWheels": {
+            "label": "19’’ Gemini Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PPSW,$WY19B,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "inductionWheels": {
+            "label": "20’’ Induction Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PPSW,$WY20P,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 2000
+          }
+        }
+      },
+      "silver": {
+        "label": "Midnight Silver Metallic",
+        "price": 0,
+        "wheels": {
+          "geminiWheels": {
+            "label": "19’’ Gemini Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PMNG,$WY19B,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "inductionWheels": {
+            "label": "20’’ Induction Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PMNG,$WY20P,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 2000
+          }
+        }
+      },
+      "red": {
+        "label": "Red Multi-Coat",
+        "price": 2000,
+        "wheels": {
+          "geminiWheels": {
+            "label": "19’’ Gemini Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PPMR,$WY19B,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "inductionWheels": {
+            "label": "20’’ Induction Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PPMR,$WY20P,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 2000
+          }
+        }
+      },
+      "black": {
+        "label": "Solid Black",
+        "price": 1500,
+        "wheels": {
+          "geminiWheels": {
+            "label": "19’’ Gemini Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PBSB,$WY19B,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "inductionWheels": {
+            "label": "20’’ Induction Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PBSB,$WY20P,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 2000
+          }
+        }
+      },
+      "blue": {
+        "label": "Deep Blue Metallic",
+        "price": 1000,
+        "wheels": {
+          "geminiWheels": {
+            "label": "19’’ Gemini Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PPSB,$WY19B,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 0
+          },
+          "inductionWheels": {
+            "label": "20’’ Induction Wheels",
+            "imageURL": "https://static-assets.tesla.com/configurator/compositor?&options=$MTY11,$PPSB,$WY20P,$INPB1&view=FRONT34&model=my&size=1920&bkba_opt=1&crop=1300,450,300,300&version=v0118-db8968a0d202208250740",
+            "price": 2000
+          }
+        }
+      }
+    },
+    "icons": {
+      "white": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_White.png?version=v0118-db8968a0d202208250740",
+      "red": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_Red.png?version=v0118-db8968a0d202208250740",
+      "black": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_Black.png?version=v0118-db8968a0d202208250740",
+      "silver": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_MidnightSilver.png?version=v0118-db8968a0d202208250740",
+      "blue": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODEL3/UI/Paint_Blue.png?version=v0118-db8968a0d202208250740",
+      "geminiWheels": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODELY/UI/gemini_wheels.png?version=v0118-db8968a0d202208250740",
+      "inductionWheels": "https://digitalassets.tesla.com/image/upload/f_auto,q_auto/prod/coin/static_assets/MODELY/UI/induction_wheels.png?version=v0118-db8968a0d202208250740"
+    }
+  }
+]
