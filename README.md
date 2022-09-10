@@ -7,15 +7,25 @@
 # Requirement 
 
 Create a React App that allows for a user to configure a vehicle, having the following inputs:
+
 1) Color
+
  Blue
+
  Red
+
  Yellow
+
 2) Type
+
  Truck
+
  Van
+
 3) Camper-Addon
+
  Yes
+
  No
 
 Use TypeScipt and interfaces. 
