@@ -1,10 +1,10 @@
 # React Vehichle Web App
+# Run the project
+### npm i
+### npm start 
 
-## npm i
-## npm start 
 
-
-# Detail 
+# Requirement 
 
 Create a React App that allows for a user to configure a vehicle, having the following inputs:
 1) Color
