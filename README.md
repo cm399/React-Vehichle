@@ -9,14 +9,21 @@
 Create a React App that allows for a user to configure a vehicle, having the following inputs:
 
 1) Color
+  
    Blue
+  
    Red
+  
    Yellow
 2) Type
+  
    Truck
+  
    Van
 3) Camper-Addon
+  
    Yes
+  
    No
 Use TypeScipt and interfaces. 
 
@@ -30,8 +37,13 @@ configuration and price.
 Use the following data to compute price:
 
 truckBase: 10000
+
 vanBase: 15000
+
 BluePaint: 2000
+
 YellowPaint: 25000
+
 RedPaint: 30000
+
 camperAddon: 10000
