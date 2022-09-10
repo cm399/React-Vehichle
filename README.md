@@ -10,23 +10,23 @@ Create a React App that allows for a user to configure a vehicle, having the fol
 
 1) Color
 
- Blue
+   Blue
 
- Red
+   Red
 
- Yellow
+   Yellow
 
 2) Type
 
- Truck
+   Truck
 
- Van
+   Van
 
 3) Camper-Addon
 
- Yes
+   Yes
 
- No
+   No
 
 Use TypeScipt and interfaces. 
 
